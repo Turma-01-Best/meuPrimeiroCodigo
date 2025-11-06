@@ -6,7 +6,7 @@ public class aula2 {
 		calculadora cal = new calculadora();
 
 		int n1 = 10;
-		int n2 = 25;
+		int n2 = 25;osadhfdo9sahfosdhgfiuosghfiasdgfiasgfadf
 
 		// System.out.println("soma: " + somar(n1, n2));
 		// System.out.println("subtraçao:" + (n1 - n2));
